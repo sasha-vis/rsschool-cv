@@ -1,2 +1,2 @@
 # rsschool-cv
-CV
+https://sasha-vis.github.io/rsschool-cv/cv
