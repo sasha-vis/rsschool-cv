@@ -5,10 +5,12 @@
 *Hi, my name is Aleksandr and I am 24 years old. I have been actively learning front-end development for 1.5 years and back-end development for 6 months. During this time, I successfully completed front-end development course and also went through trainee program where practiced back-end development. I have created a lot of sites, spa-applications and web api services with business logic which connected with databases. Now I am working in SAP CPQ with IronPython and KnockoutJS.
 I plan continue to improve my IT knowledge and develop my skills for better job performance.
 I am a confident, hardworking, team player and enjoys being challenged. I set myself goals and have no hesitation in achieving them. I am highly-motivated with good time-management skills as I am organized.*
+
 ***
 ### EDUCATION
 - **MyItSchool** (Front-end development course)
 - **VironIT** (Trainee program on C#)
+
 ***
 ### CAREER SUMMARY
 **Full-stack developer**
@@ -35,6 +37,7 @@ MyItSchool | May 2020 to May 2021
 - Learned html, css, js, react, redux
 - Developed sites, spa-applications
 - Modified code to fix errors
+
 ***
 ### SKILLS
 Front-end skills:
@@ -71,8 +74,10 @@ Other skills:
 - SOLID
 - Postman
 - **English** - B1
+
 ***
 ### CODE EXAMPLES
+
 ```
 function Counter() {
   let count = 0;
@@ -94,6 +99,7 @@ c();
 
 console.log(`a: ${a()}, b: ${b()}, c: ${c()}`);
 ```
+
 ***
 ### CONTACTS
 **Cell:** *+375 293776020 (A1)*
